@@ -52,8 +52,8 @@ global.author = "𝙍𝙀𝘿╺ KENZO" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ YOUTUBE  ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://youtube.com/channel/UCxqpAzaAecDfYOPywxUJoyw ' //Change Your Button's URL
 
 //database
 global.premium = ['+380944814219'] //ur premium numbers
